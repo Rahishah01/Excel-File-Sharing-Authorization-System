@@ -3,7 +3,7 @@ A secure web application that allows users to upload Excel files, automatically 
 
 This project was built using Python, Django, and PostgreSQL.
 
-**Project Overview**
+**Project Overview:**
 The system allows registered users to upload Excel files to the server.
 Each uploaded file is converted into a clean, structured table displayed in the browser.
 Admins can share files by generating secure keys that determine who can view, update, or delete the content.
@@ -19,3 +19,12 @@ This project demonstrates:
 -Database operations
 
 -Clean UI for viewing Excel tables
+
+
+**Technologies Used:**
+
+-Python 3
+
+-Django
+
+-HTML / CSS
